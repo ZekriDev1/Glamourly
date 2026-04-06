@@ -1,1 +1,1 @@
-"# Glamourly" 
+# Glamourly
